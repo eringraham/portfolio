@@ -80,8 +80,8 @@ body {
     padding-top: .25em;
     padding-bottom: .25em;
     list-style-type: none;
-    text-align: right;
     background-color: #c5c9cd;
+    text-align: right;
 }
 
 .btm-nav a {
@@ -102,6 +102,10 @@ li {
     font-weight: 300;
 }
 
+.copyright {
+    text-align: left;
+}
+
 .logo {
     text-align: center;
 }
@@ -120,6 +124,30 @@ li {
     text-align: center;
 }
 
+.icons {
+    text-align: center;
+}
 
+@media only screen and (min-width: 20em) {
+    
+    .logo {
+     margin: 0 auto;
+     max-width: 15em;
+     text-align: center;
+ }   
+}
 
+@media only screen and (min-width: 40em) {
+  
+ .logo {
+     margin: 0 auto;
+     max-width: 22em;
+     text-align: center;
+ }
+          
+}
 
+@media only screen and (min-width: 60em) {
+
+  
+}
