@@ -127,6 +127,22 @@ li {
     text-align: center;
 }
 
+.contactpg {
+    text-align: center;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.contacthead {
+    font-size: 1.25em;
+    color: #9198a8;
+}
+
+.contactinfo {
+    font-weight: 300;
+    color: gray;
+}
+
 @media only screen and (min-width: 20em) {
     
     .logo {
