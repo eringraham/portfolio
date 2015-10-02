@@ -27,6 +27,13 @@ body {
     margin: 0 auto;
 }
 
+.work {
+    text-align: center;
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+}
+
 .skip-links {
     margin:0;
     padding: 0;
