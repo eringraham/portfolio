@@ -58,6 +58,7 @@ body {
     margin: 0;
     padding-bottom: 0;
     position: fixed;
+    z-index: 1000;
     width: 100%;
 
 }
@@ -87,6 +88,7 @@ body {
 li {
     display: inline;
     font-weight: 300;
+    text-align: center;
 }
 
 .indexh1 {
