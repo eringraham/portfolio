@@ -53,6 +53,15 @@ body {
 .skip-links a:focus {
     top: 0;
 }
+.skip-links-b a {
+    position: absolute;
+    bottom: -5em;
+    background-color: white;
+    color: #c5c9cd;
+    text-decoration: none;
+    padding: 0.5em 0.75em;
+    font-size: 1.25em;
+}
 
 .header {
     margin: 0;
