@@ -89,12 +89,6 @@ a {
     text-decoration: none;
 }
 
-.contactlink a:hover,
-.contactlink a:focus,
-.contactlink a:active {
-    color: #eaeaea;
-}
-
 li {
     display: inline;
     font-weight: 300;
