@@ -27,6 +27,11 @@ body {
     margin: 0 auto;
 }
 
+.izzegreen {
+    max-width: 160px;
+    text-align: center;
+}
+
 .work {
     text-align: center;
     max-width: 900px;
