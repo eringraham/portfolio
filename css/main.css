@@ -30,6 +30,8 @@ body {
 .izzegreen {
     max-width: 160px;
     text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 
 .work {
