@@ -164,7 +164,10 @@ li {
 }
 
 .section-img {
+    margin: 0 auto;
+    display: block;
     text-align: center;
+    max-width: 1200px;
 }
 
 .section-img a:hover {
