@@ -212,6 +212,14 @@ li {
     line-height: 1.5em;
 }
 
+.oops {
+    font-family: 'Lato', sans-serif;
+    font-size: 20em;
+    font-color: #9198a8;
+    font-weight: 600;
+    text-align: center;
+}
+
 @media only screen and (min-width: 20em) {
     
     .logo {
