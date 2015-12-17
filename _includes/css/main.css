@@ -213,21 +213,26 @@ li {
 }
 
 .oops {
-    font-size: 20em;
+    width: 100%;
+    margin: 0 auto;
     color: #9198a8;
+    font-size: 7em;
     font-weight: 400;
     text-align: center;
 }
 
 .lost {
-    font-size: 5em;
+    width: 100%;
+    margin: 0 auto;
     color: #9198a8;
     font-weight: 300;
     text-align: center;
 }
 
 .homebtn {
-    max-width: 3em;
+    max-width: 6em;
+    display: block;
+    margin: 0 auto;
     text-align: center;
 }
 
