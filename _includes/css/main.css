@@ -213,10 +213,21 @@ li {
 }
 
 .oops {
-    font-family: 'Lato', sans-serif;
     font-size: 20em;
-    font-color: #9198a8;
-    font-weight: 600;
+    color: #9198a8;
+    font-weight: 400;
+    text-align: center;
+}
+
+.lost {
+    font-size: 5em;
+    color: #9198a8;
+    font-weight: 300;
+    text-align: center;
+}
+
+.mainbtn {
+    max-width: 3em;
     text-align: center;
 }
 
